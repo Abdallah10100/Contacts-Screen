@@ -42,9 +42,9 @@ class _ContactsScreenState extends State<ContactsScreen> {
       appBar: AppBar(
         backgroundColor: const Color.fromARGB(255, 40, 55, 93),
         title: Text(
-          'Contacts Screen',
+          'Contacts Screen%',
           style: TextStyle(
-              fontSize: 25, fontWeight: FontWeight.bold, color: Colors.white),
+              fontSize: 28, fontWeight: FontWeight.bold, color: Colors.white),
         ),
         centerTitle: true,
       ),
